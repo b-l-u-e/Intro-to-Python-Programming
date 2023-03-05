@@ -262,6 +262,23 @@ for x in range(10):
     for y in range(10):
         print(y)
 
+# Python for loops work on any type of sequence data type including strings
+# Enumerate function is used to provide the index of current iteration of a for loop
+
+# Module *1
+# - Explain programming and its history
+# - Describe benefits of Python
+# - Evalute system readiness for python development
+# - Identify differences of command line via IDE
+# - Explain syntax and space in Python
+# - Describe variables and identify data types and strings
+# - Describe types of casting in Python
+# - Describe user input and console output
+# - know math and logical operators
+# - Use conditional statements, match-case statements, looping constructs, nested loops
+
+
+
 
 
 
